@@ -3,7 +3,7 @@ p {
     font-size: 20px
 }
 body {
-    background-image: url(file:///Users/Dannyj/Downloads/background.html) gold;
+    background-image: url(Background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -21,12 +21,12 @@ h3 {
     color: black;
     font-size: 30px;
 }
-dranken {
+#dranken {
     color: red;
     font-size: 20px;
     font-style: italic;
 }
-praktisch {
+#praktisch {
     font-size: 10px;
     color: black;
 }
