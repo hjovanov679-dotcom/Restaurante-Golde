@@ -1,0 +1,32 @@
+p {
+    color: black;
+    font-size: 20px
+}
+body {
+    background-image: url(file:///Users/Dannyj/Downloads/background.html) gold;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+     color: black;
+     font-size: 70px;
+}
+h2 {
+    color: black;
+    font-size: 40px;
+}
+h3 {
+    color: black;
+    font-size: 30px;
+}
+dranken {
+    color: red;
+    font-size: 20px;
+    font-style: italic;
+}
+praktisch {
+    font-size: 10px;
+    color: black;
+}
