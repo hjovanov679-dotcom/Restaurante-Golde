@@ -39,3 +39,6 @@ h3 {
     display: flex;
     gap: 30px;
 }
+#list {
+    font-size: 20px
+}
